@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mariecris</h1>
-<h3 align="center">A passionate frontend developer from PH</h3>
+<h1 align="center">Hi, I'm Mariecris! 👋</h1>
 
 - 🔭 I’m currently working on [IPKRAS](https://github.com/mons04/Ipkras-Spring)
 
